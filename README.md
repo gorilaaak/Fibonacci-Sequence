@@ -1,3 +1,3 @@
 # Fibonacci-Sequence
 
-## Pefetto :ok_hand:
+## Perfetto :ok_hand:
